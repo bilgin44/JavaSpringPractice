@@ -6,7 +6,7 @@ public class StringClass {
 
 	public static void main(String[] args) {
 		 // TODO Auto-generated method stub
-
+System.out.println(" Hello world I love my name although it is too long. But it is ok now");
 		System.out.println("Muhammed Seyfullah Bilgin ");
 		
 //		Scanner user=new Scanner (System.in);
