@@ -7,7 +7,7 @@ public class StringClass {
 	public static void main(String[] args) {
 		 // TODO Auto-generated method stub
 
-		
+		System.out.println("Muhammed Seyfullah Bilgin ");
 		
 //		Scanner user=new Scanner (System.in);
 //		
